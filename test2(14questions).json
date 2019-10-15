@@ -1,0 +1,200 @@
+{ "questionArray": 
+ [
+  {
+   "meta-data":"unused",
+   "questionText": "1+1=?",
+   "topic": "math",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"T","choice":"$2$"},  
+     {"iscorrect":"F","choice":"$3$"},
+     {"iscorrect":"F","choice":"$4$"},
+     {"iscorrect":"F","choice":"$5$"},
+     {"iscorrect":"F","choice":"$6$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "0+1=?",
+   "topic": "math",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"T","choice":"$1$"},  
+     {"iscorrect":"F","choice":"$2$"},
+     {"iscorrect":"F","choice":"$3$"},
+     {"iscorrect":"F","choice":"$4$"},
+     {"iscorrect":"F","choice":"$5$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "2+3=?",
+   "topic": "math",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$3$"},  
+     {"iscorrect":"T","choice":"$5$"},
+     {"iscorrect":"F","choice":"$4$"},
+     {"iscorrect":"F","choice":"$6$"},
+     {"iscorrect":"F","choice":"$8$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "3+3=?",
+   "topic": "math",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$3$"},  
+     {"iscorrect":"F","choice":"$2$"},
+     {"iscorrect":"F","choice":"$1$"},
+     {"iscorrect":"T","choice":"$6$"},
+     {"iscorrect":"F","choice":"$4$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "What is the capitalization of a?",
+   "topic": "English",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"T","choice":"$A$"},  
+     {"iscorrect":"F","choice":"$B$"},
+     {"iscorrect":"F","choice":"$D$"},
+     {"iscorrect":"F","choice":"$C$"},
+     {"iscorrect":"F","choice":"$E$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "What is the capitalization of c?",
+   "topic": "English",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$B$"},  
+     {"iscorrect":"F","choice":"$A$"},
+     {"iscorrect":"T","choice":"$C$"},
+     {"iscorrect":"F","choice":"$D$"},
+     {"iscorrect":"F","choice":"$E$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "What is the capitalization of b?",
+   "topic": "English",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$E$"},  
+     {"iscorrect":"F","choice":"$D$"},
+     {"iscorrect":"F","choice":"$C$"},
+     {"iscorrect":"F","choice":"$A$"},
+     {"iscorrect":"T","choice":"$B$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "What is the capitalization of e?",
+   "topic": "English",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"T","choice":"$E$"},  
+     {"iscorrect":"F","choice":"$A$"},
+     {"iscorrect":"F","choice":"$B$"},
+     {"iscorrect":"F","choice":"$C$"},
+     {"iscorrect":"F","choice":"$D$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "11+11=?",
+   "topic": "advanced mathematics",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"T","choice":"$22$"},  
+     {"iscorrect":"F","choice":"$33$"},
+     {"iscorrect":"F","choice":"$44$"},
+     {"iscorrect":"F","choice":"$55$"},
+     {"iscorrect":"F","choice":"$66$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "22+22=?",
+   "topic": "advanced mathematics",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$88$"},  
+     {"iscorrect":"F","choice":"$77$"},
+     {"iscorrect":"F","choice":"$66$"},
+     {"iscorrect":"F","choice":"$55$"},
+     {"iscorrect":"T","choice":"$44$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "33+33=?",
+   "topic": "advanced mathematics",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$11$"},  
+     {"iscorrect":"F","choice":"$55$"},
+     {"iscorrect":"T","choice":"$66$"},
+     {"iscorrect":"F","choice":"$12$"},
+     {"iscorrect":"F","choice":"$13$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "12+13=?",
+   "topic": "advanced mathematics",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$11$"},  
+     {"iscorrect":"F","choice":"$12$"},
+     {"iscorrect":"F","choice":"$13$"},
+     {"iscorrect":"T","choice":"$25$"},
+     {"iscorrect":"F","choice":"$15$"}
+    ]
+  },
+   {
+   "meta-data":"unused",
+   "questionText": "20+20=?",
+   "topic": "advanced mathematics",
+   "image":"goodhash2_AK.jpg",
+   "choiceArray": 
+    [
+     {"iscorrect":"F","choice":"$56$"},  
+     {"iscorrect":"T","choice":"$40$"},
+     {"iscorrect":"F","choice":"$58$"},
+     {"iscorrect":"F","choice":"$89$"},
+     {"iscorrect":"F","choice":"$98$"}
+    ]
+  },
+  {
+   "meta-data":"unused",
+   "questionText": "55+45=?",
+   "topic": "advanced mathematics",
+   "imageFile":"none",
+   "choiceArray":   
+    [
+     {"iscorrect":"F","choice":"$133$"},
+     {"iscorrect":"F","choice":"$122$"},
+     {"iscorrect":"F","choice":"$111$"},
+     {"iscorrect":"T","choice":"$100$"},
+     {"iscorrect":"F","choice":"$11$"}
+    ]
+  }
+ ] 
+}
